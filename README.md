@@ -1,2 +1,2 @@
 # Programa04
-<P>Ingeniero buenas estoy acabando de terminar algunas cositas porfavor</P>
+<P>Ingeniero buenas aun me falta autualizarl algunas cositas porfavor me podria dar mas tiempito Ing le estaria muy agradecido</P>
