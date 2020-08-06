@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos 
 
-<h1>El siguiente programa   es realizado en la consola de   C#  el ejercicio con la relacion de uno a muchos  donde  varios jugadores pueden estar  en unsolo  equipo  y  donde varios jugadores pueden jugar en diferentes posiciones haciendo referencia a la relacion de muchos amuchos, y rompiendo en tabla  llamada TipoJugadorPosición</h1>
+<h1>El siguiente programa   es realizado en la consola de   C#  el ejercicio con la relacion de uno a muchos es donde  varios jugadores pueden estar  en un solo  equipo  y  donde varios jugadores pueden jugar en diferentes posiciones haciendo referencia a la relacion de muchos a muchos, y rompiendo en tabla  llamada TipoJugadorPosición</h1>
 
 
 | Futbolistas | Jugadores |
