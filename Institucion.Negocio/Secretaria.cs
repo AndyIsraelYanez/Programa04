@@ -14,6 +14,17 @@ namespace Institucion.Negocio
             });
             Inscritos++;
         }
+        public void Agregar(Jugador jugador, Equipo equipo)
+        {
+            equipo.Jugadores.Add(new Jugador
+            {
+                 Nombre = jugador.Nombre,
+                 Apellido =jugador.Apellido
+
+            });
+            Agregados++;
+        
+        }
 
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Institucion.Negocio;
+using Instituto.Entidad;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -24,9 +25,16 @@ namespace Instituto.AccedoDatos
 
             modelBuilder.Entity<Jugador>()
                 .HasKey(j => new { j.JugadorId });
+
+            modelBuilder.Entity<Equipo>()
+                .HasKey(eq => new { eq.EquipoId });
+
         }
         public DbSet<Jugador> Jugadores { get; set; }
         public DbSet<TipoPosicion> TipoPosiciones { get; set; }
         public DbSet<TipoPosicionJugador> TipoPosicionJugadores { get; set; }
+        public DbSet<Equipo> Equipos { get; set; }
+
+
     }
 }
