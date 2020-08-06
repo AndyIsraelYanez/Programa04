@@ -3,9 +3,9 @@
 <h1>El siguiente programa   es realizado en la consola de   C#  el ejercicio con la relacion de uno a muchos  donde  varios jugadores pueden estar  en unsolo  equipo  y  donde varios jugadores pueden jugar en diferentes posiciones haciendo referencia a la relacion de muchos amuchos, y rompiendo en tabla  llamada TipoJugadorPosición</h1>
 
 
-| Artículos De Estudio | Artículos De Cocina |
+| Futbolistas | Jugadores |
 | ------------ | ------------- |
-| <img src="https://previews.123rf.com/images/cherezoff/cherezoff1408/cherezoff140800761/30827267-laptop-tablet-pc-y-tel%C3%A9fonos-inteligentes.jpg" width="250"> | <img src="https://image.freepik.com/vector-gratis/electrodomesticos-utensilios-cocina-conjunto-iconos_1284-10067.jpg" width="250"> |
+| <img src="https://i.pinimg.com/736x/69/20/64/692064981d3fb4135b010af521384dfd.jpg"> | <img src="http://www.nkfu.com/wp-content/uploads/2011/05/futbol1.jpg" width="250"> |
 
  # Lo que utilizamos 
    <ul>  
