@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos 
+# Ejemplo Institucion Deportiva LDU
 
 <h1>El siguiente programa   es realizado en la consola de   C#  el ejercicio con la relacion de uno a muchos es donde  varios jugadores pueden estar  en un solo  equipo  y  donde varios jugadores pueden jugar en diferentes posiciones haciendo referencia a la relacion de muchos a muchos, y rompiendo en tabla  llamada TipoJugadorPosición</h1>
 
