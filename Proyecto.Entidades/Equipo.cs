@@ -1,14 +1,15 @@
-﻿using Institucion.Negocio;
+﻿using Proyecto.Negocio;
 using System;
 using System.Collections.Generic;
 using System.Text;
-
-namespace Instituto.Entidad
+namespace Proyecto.Entidades
 {
-     public class Equipo
+    public class Equipo
     {
-        public int EquipoId { get; set; }
+        
+        public string EquipoId { get; set; }
         public string Nombre { get; set; }
         public List<Jugador> Jugadores { get; set; } = new List<Jugador>();
+
     }
 }

@@ -1,6 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
@@ -12,7 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Instituto.Entidad\Instituto.Entidad.csproj" />
+    <ProjectReference Include="..\Proyecto.AccesoDatos\Proyecto.AccesoDatos.csproj" />
+    <ProjectReference Include="..\Proyecto.Entidades\Proyecto.Entidades.csproj" />
+    <ProjectReference Include="..\Proyecto.Negocio\Proyecto.Negocio.csproj" />
   </ItemGroup>
 
 </Project>
